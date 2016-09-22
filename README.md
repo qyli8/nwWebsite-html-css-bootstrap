@@ -21,3 +21,12 @@ NW Demo Website
       |-- Food Art Galleries Arround the World
           |-- more...
 ```
+---
+
+
+Snapshots
+
+#Web snapshot
+
+![Web snapshot](https://github.com/joannali/demo-html-css-boot-web-1.PNG)
+
