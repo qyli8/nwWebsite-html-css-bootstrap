@@ -28,5 +28,5 @@ Snapshots
 
 #Web snapshot
 
-![Web snapshot](https://github.com/qyli8/nwWebsite-html-css-bootstrap/master/demo-html-css-boot-web-1.PNG)
+![Web snapshot](https://github.com/qyli8/nwWebsite-html-css-bootstrap/blob/master/demo-html-css-boot-web-1.PNG)
 
